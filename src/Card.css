@@ -1,0 +1,14 @@
+.cardStyle {
+  border: 3px solid black;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px;
+}
+
+.student {
+  border-color:  green;
+}
+.notStudent {
+  border-color: red;
+}
